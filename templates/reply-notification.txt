@@ -1,0 +1,11 @@
+@{{username}} replied to a comment on {{canvas_title}}
+
+{{reply_text}}
+
+View or Reply {{action_url}}
+
+Thanks,
+
+The {{product_name}} Team
+{{sender_address_line1}}
+{{sender_address_line2}}
