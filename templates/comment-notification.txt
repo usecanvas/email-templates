@@ -1,10 +1,8 @@
-You recently requested that we change your email address. Click the link to
-verify this is the right address.
+@{{username}} commented on {{canvas_title}}
 
-Verify Email {{action_url}}
+{{comment_text}}
 
-If you didn't request a change to your email, please let us know at
-<a href="mailto:{{product_email_address}}">{{product_email_address}}</a>.
+Verify or Reply {{action_url}}
 
 Thanks,
 
