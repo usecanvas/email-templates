@@ -7,6 +7,6 @@ Working together. Writing things down.
 
 Thanks,
 
-The {{product_name}} Team
+The Canvas Team
 {{sender_address_line1}}
 {{sender_address_line2}}

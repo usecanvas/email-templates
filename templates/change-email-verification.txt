@@ -8,6 +8,6 @@ If you didn't request a change to your email, please let us know at
 
 Thanks,
 
-The {{product_name}} Team
+The Canvas Team
 {{sender_address_line1}}
 {{sender_address_line2}}
