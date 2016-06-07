@@ -1,0 +1,13 @@
+You recently requested that we change your email address. Click the link to
+verify this is the right address.
+
+Verify Email {{action_url}}
+
+If you didn't request a change to your email, please let us know at
+<a href="mailto:{{product_email_address}}">{{product_email_address}}</a>.
+
+Thanks,
+
+The {{product_name}} Team
+{{sender_address_line1}}
+{{sender_address_line2}}
