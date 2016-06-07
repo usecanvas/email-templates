@@ -1,0 +1,9 @@
+Thanks for signing up for Canvas! We're excited to have you as an early user.
+
+Verify Email {{action_url}}
+
+Thanks,
+
+The {{product_name}} Team
+{{sender_address_line1}}
+{{sender_address_line2}}
