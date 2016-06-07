@@ -2,7 +2,7 @@
 
 {{comment_text}}
 
-Verify or Reply {{action_url}}
+View or Reply {{action_url}}
 
 Thanks,
 
