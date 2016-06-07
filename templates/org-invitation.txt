@@ -2,8 +2,7 @@ Your {{org_name}} teammates want to write with you.
 
 Join {{org_name}} {{action_url}}
 
-Canvas is a writing app for teams of nerds. Meeting minutes. Product specs.
-Working together. Writing things down.
+Canvas is a writing app for teams of nerds. Meeting minutes. Product specs. Working together. Writing things down.
 
 Thanks,
 
