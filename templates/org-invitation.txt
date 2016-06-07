@@ -8,5 +8,4 @@ Working together. Writing things down.
 Thanks,
 
 The Canvas Team
-{{sender_address_line1}}
-{{sender_address_line2}}
+325 9th St, San Francisco, CA 94103
