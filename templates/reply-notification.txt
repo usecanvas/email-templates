@@ -4,6 +4,8 @@
 
 View or Reply {{action_url}}
 
+{{#mute_canvas_url}}P.S. Don't want to receive updates? You can mute notifications for this canvas: {{.}}{{/mute_canvas_url}}
+
 Thanks,
 
 The Canvas Team
